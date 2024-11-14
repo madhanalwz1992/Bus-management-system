@@ -30,7 +30,7 @@ public class AddRoute extends JFrame
 		JLabel b4 = new JLabel("Bus Type");
 		b4.setBounds(30,210,200,40);
 		c1.add(b4);
-		JLabel b5 = new JLabel("Fare(INR)");
+		JLabel b5 = new JLabel("Fare(EUR)");
 		b5.setBounds(300,210,200,40);
 		c1.add(b5);	
 		
